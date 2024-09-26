@@ -1,5 +1,11 @@
  
  [Godev.run](https://godev.run)
+ 
+<picture>
+    <source srcset="./.github/logo-dark.png" media="(prefers-color-scheme: light)">
+    <source srcset="./.github/logo-white.png" media="(prefers-color-scheme: white)">
+    <img src="./.github/logo-dark.png" alt="logo">
+</picture>
 
  
 # Godev.run Issues and Feature Requests
@@ -32,13 +38,6 @@ For inquiries or suggestions, feel free to reach out to me on my [GitHub Profile
 ---
 
 Feel free to check out the original project for more information!
-
-
-<picture>
-    <source srcset="./.github/logo-dark.png" media="(prefers-color-scheme: light)">
-    <source srcset="./.github/logo-white.png" media="(prefers-color-scheme: dark)">
-    <img src="./.github/logo-dark.png" alt="logo">
-</picture>
 
 
 Useful tools for developer and people working in IT. [Have a look !](https://godev.run).
